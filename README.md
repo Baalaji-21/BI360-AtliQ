@@ -138,7 +138,7 @@ The data model follows a snowflake schema, organized as:
 
 ---
 
-## Skills Showcast
+## Skills Showcased
 
 ### Technical Skills
 
