@@ -138,3 +138,27 @@ The data model follows a snowflake schema, organized as:
 
 ---
 
+## Skills Showcast
+
+### Technical Skills
+
+- Loading and connecting data from MySQL.
+- Solid understanding of ETL processes (Extract, Transform, Load).
+- Creating date tables using Power Query.
+- Calculating fiscal months and quarters.
+- Building and managing data model relationships in Power BI.
+- Adding and integrating additional data into existing models.
+- Writing DAX expressions to create calculated columns.
+- Designing effective visuals and dashboards.
+- Using merge and append operations for data transformation.
+- Publishing to Power BI Service and setting up automatic data refresh.
+
+### Soft Skills
+
+- Strong grasp of business reporting needs.
+- Designing reports with a focus on user experience and clear design principles.
+- Streamlining and optimizing report creation through detailed refinement.
+- Following a structured approach to plan and build reports.
+- Familiarity with creating and interpreting project charters.
+
+---
