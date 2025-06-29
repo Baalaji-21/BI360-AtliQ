@@ -2,8 +2,11 @@
 
 ---
 
-### Power BI Dashboard - [![Business Insight 360 Dashboard](dashboard_overview.PNG)](https://app.powerbi.com/links/du4_-xdlZ3?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+### Power BI Dashboard 
 
+[![Business Insight 360 Dashboard](dashboard_overview.PNG)](https://app.powerbi.com/links/du4_-xdlZ3?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+
+click the image for LIVE INTERACTIVE DASHBOARD
 
 ---
 AtliQ Hardware, a fast-growing consumer electronics company, is facing challenges in keeping up with competitors when it comes to leveraging data. My goal is to implement an advanced analytics solution using Power BI that will enable the company to make data-informed decisions. 
