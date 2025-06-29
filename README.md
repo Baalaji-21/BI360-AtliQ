@@ -2,7 +2,7 @@
 
 ---
 
-### Power BI Dashboard - [![Business Insight 360](dashboard_overview.png)](https://app.powerbi.com/links/du4_-xdlZ3?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+### Power BI Dashboard - [![Business Insight 360 Dashboard](dashboard_overview.PNG)](https://app.powerbi.com/links/du4_-xdlZ3?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
 
 ---
