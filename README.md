@@ -1,4 +1,4 @@
-# Business Insights 360 - AtliQ Harwares
+# Business Insights 360 - AtliQ Harware
 
 ---
 
